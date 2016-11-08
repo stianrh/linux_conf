@@ -1,1 +1,1 @@
-/home/power/.vim/vimrc
+../../.vim/vimrc
